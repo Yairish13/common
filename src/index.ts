@@ -4,7 +4,7 @@ interface Color {
 }
 
 const color: Color = {
-    red: 1,
+    red: 5,
     blue: 2
 }
 
